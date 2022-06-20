@@ -29,3 +29,5 @@ A APi tem baseicamente dois controllers:
      A PI possui uma breve documento com Swagger que mosta os endpoints e também pode ser usado para testes.
      Foi colocado 2 testes de inegração de exemplos.
      Foi realizado a chamada de API externa no heroku com RestTemplate
+     
+     Url documentação swagger: http://localhost:8080/swagger-ui.html
